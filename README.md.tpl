@@ -8,6 +8,46 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 - 💬 Ping me about: **service reliability**, **scalability**, **observability**
 - ⚡ Fun fact: **peanut butter** is my Kryptonite
 
+<!-- start chipwolf/generate-badges default -->
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white)
+![Icinga](https://img.shields.io/badge/Icinga-06062C.svg?style=flat-square&logo=icinga&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A.svg?style=flat-square&logo=puppet&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=apache&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9.svg?style=flat-square&logo=subversion&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
+![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=flat-square&logo=travisci&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF.svg?style=flat-square&logo=packer&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat-square&logo=terraform&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)
+<!-- end chipwolf/generate-badges default -->
+
 #### 🚧 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})

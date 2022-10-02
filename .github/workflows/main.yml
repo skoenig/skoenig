@@ -6,11 +6,54 @@ on:
     - cron: "0 */3 * * *"
 
 jobs:
-  markscribe:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@master
+
+      - uses: ChipWolf/generate-badges@main
+        with:
+          output: "README.md.tpl"
+          style: flat-square
+          slugs: |
+            amazonaws
+            apache
+            apachemaven
+            django
+            docker
+            elasticsearch
+            flask
+            git
+            githubactions
+            gnubash
+            go
+            googlecloud
+            grafana
+            heroku
+            icinga
+            javascript
+            jenkins
+            kubernetes
+            linux
+            mariadb
+            nginx
+            nodedotjs
+            npm
+            packer
+            php
+            postgresql
+            prometheus
+            puppet
+            python
+            redis
+            ruby
+            saltproject
+            subversion
+            terraform
+            travisci
+            typescript
+            vagrant
 
       - uses: muesli/readme-scribe@master
         env:
@@ -25,6 +68,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: github-action 🤖
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: github-action 🤖 <actions@github.com>
