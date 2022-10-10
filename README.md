@@ -71,7 +71,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.15.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.15.0), 1 day ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.16.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.16.0), 1 day ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 2 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
