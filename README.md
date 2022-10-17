@@ -50,7 +50,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (6 days ago)
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (today)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 weeks ago)
 - [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) - Open and mount a LUKS volume before performing a backup with rsnaphot (1 month ago)
