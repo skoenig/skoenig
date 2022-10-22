@@ -50,11 +50,11 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (4 days ago)
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (5 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
-- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 weeks ago)
+- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (4 weeks ago)
 - [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) - Open and mount a LUKS volume before performing a backup with rsnaphot (1 month ago)
-- [cooklang/cook-import](https://github.com/cooklang/cook-import) - A command line tool to import recipes into Cooklang format (4 months ago)
+- [cooklang/cook-import](https://github.com/cooklang/cook-import) - A command line tool to import recipes into Cooklang format (5 months ago)
 
 #### 📒 Handy Gists
 
@@ -71,8 +71,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.20.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.20.0), 2 days ago) - Python package for scraping recipes data
-- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 2 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.20.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.20.0), 3 days ago) - Python package for scraping recipes data
+- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 3 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
 
