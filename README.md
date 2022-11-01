@@ -71,13 +71,13 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.23.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.23.0), 1 day ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.23.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.23.0), 2 days ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 3 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
 
-- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (4 weeks ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 weeks ago)
-- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website. (4 weeks ago)
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (1 month ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 month ago)
+- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website. (1 month ago)
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface (1 month ago)
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past, we recommend migrating to `gcloud beta terraform vet`. (1 month ago)
