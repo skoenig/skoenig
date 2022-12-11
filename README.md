@@ -65,13 +65,13 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (3 months ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (6 months ago)
-- [New scraper for lecker.de](https://github.com/hhursev/recipe-scrapers/pull/542) on [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) (6 months ago)
-- [Use `link` parameter in `write_to_file`](https://github.com/cooklang/cook-import/pull/17) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (6 months ago)
+- [New scraper for lecker.de](https://github.com/hhursev/recipe-scrapers/pull/542) on [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) (7 months ago)
+- [Use `link` parameter in `write_to_file`](https://github.com/cooklang/cook-import/pull/17) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (7 months ago)
 - [Implement output in markdown format](https://github.com/cooklang/CookCLI/pull/60) on [cooklang/CookCLI](https://github.com/cooklang/CookCLI) (8 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.25.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.25.0), 4 days ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.25.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.25.0), 5 days ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 4 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
