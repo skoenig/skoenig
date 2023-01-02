@@ -30,6 +30,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=flat-square&logo=pulumi&logoColor=white)
 ![Subversion](https://img.shields.io/badge/Subversion-809CC9.svg?style=flat-square&logo=subversion&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
 ![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)
