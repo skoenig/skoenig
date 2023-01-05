@@ -51,8 +51,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (1 day ago)
-- [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (2 days ago)
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal collection of tasty recipes (instructions in German) (2 days ago)
+- [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (3 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 months ago)
@@ -77,7 +77,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### ⭐ Recent Stars
 
-- [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (2 days ago)
+- [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (3 days ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (1 month ago)
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (3 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 months ago)
