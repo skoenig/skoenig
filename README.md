@@ -64,11 +64,11 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🔀 My recent Pull Requests
 
+- [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (today)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (4 months ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (7 months ago)
 - [New scraper for lecker.de](https://github.com/hhursev/recipe-scrapers/pull/542) on [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) (7 months ago)
 - [Use `link` parameter in `write_to_file`](https://github.com/cooklang/cook-import/pull/17) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (7 months ago)
-- [Implement output in markdown format](https://github.com/cooklang/CookCLI/pull/60) on [cooklang/CookCLI](https://github.com/cooklang/CookCLI) (9 months ago)
 
 #### 📦 Latest releases I've contributed to
 
@@ -77,8 +77,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### ⭐ Recent Stars
 
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (today)
 - [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (4 days ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (1 month ago)
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (3 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 months ago)
-- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website. (3 months ago)
