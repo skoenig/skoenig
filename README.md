@@ -3,7 +3,6 @@
 Infrastructure Engineer passionate about Platform as a Service. I like automating things, building pipelines, exploring scalability problems and improving reliability and performance.
 
 - 🏢 I'm currently working at [Fit Analytics](https://www.fitanalytics.com/) as a DevOps Engineer
-- 🛠 I use daily: `kubectl`, `gcloud`, `make`, `terraform`, `git`
 - 🌱 Interested in all things :page_with_curl: Open Source, :cloud: Cloud Native, :gear: DevOps, :robot: automation
 - 💬 Ping me about: **service reliability**, **scalability**, **observability**
 - ⚡ Fun fact: **peanut butter** is my Kryptonite
