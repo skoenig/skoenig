@@ -50,8 +50,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 days ago)
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (6 days ago)
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 days ago)
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 week ago)
 - [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (2 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
@@ -65,13 +65,13 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (1 week ago)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (4 months ago)
-- [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (7 months ago)
+- [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (8 months ago)
 - [New scraper for lecker.de](https://github.com/hhursev/recipe-scrapers/pull/542) on [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) (8 months ago)
 - [Use `link` parameter in `write_to_file`](https://github.com/cooklang/cook-import/pull/17) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (8 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.28.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.28.0), 3 days ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.28.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.28.0), 4 days ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 5 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
