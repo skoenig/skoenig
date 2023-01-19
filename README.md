@@ -63,11 +63,11 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🔀 My recent Pull Requests
 
+- [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (today)
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (1 week ago)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (4 months ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (8 months ago)
 - [New scraper for lecker.de](https://github.com/hhursev/recipe-scrapers/pull/542) on [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) (8 months ago)
-- [Use `link` parameter in `write_to_file`](https://github.com/cooklang/cook-import/pull/17) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (8 months ago)
 
 #### 📦 Latest releases I've contributed to
 
