@@ -50,8 +50,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (today)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 week ago)
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 weeks ago)
 - [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (3 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (4 weeks ago)
