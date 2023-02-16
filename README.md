@@ -50,11 +50,11 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/til](https://github.com/skoenig/til) -  (today)
 - [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (2 days ago)
 - [skoenig/einfachsatt](https://github.com/skoenig/einfachsatt) -  (2 days ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 days ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 
 #### 📒 Handy Gists
 
