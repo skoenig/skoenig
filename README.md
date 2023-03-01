@@ -50,8 +50,8 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (6 days ago)
-- [skoenig/einfachsatt](https://github.com/skoenig/einfachsatt) -  (6 days ago)
+- [skoenig/cookhack](https://github.com/skoenig/cookhack) - personal recipes collection (instructions in German) (1 week ago)
+- [skoenig/einfachsatt](https://github.com/skoenig/einfachsatt) -  (1 week ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 weeks ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
@@ -71,7 +71,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.32.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.32.1), 5 days ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.32.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.32.1), 6 days ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 7 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
@@ -79,5 +79,5 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (1 month ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (3 months ago)
-- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (4 months ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 months ago)
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json (5 months ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (5 months ago)
