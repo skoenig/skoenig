@@ -49,8 +49,11 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 <!-- end chipwolf/generate-badges default -->
 
 #### 🚧 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 7}}
+{{- if eq .Repo.Name "skoenig/einfachsatt" "skoenig/cookhack" }}
+{{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 {{- end}}
 
 #### 📒 Handy Gists
