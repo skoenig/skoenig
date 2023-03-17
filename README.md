@@ -51,7 +51,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 #### 🚧 Check out what I'm currently working on
 
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 month ago)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 months ago)
 - [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (2 months ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 months ago)
@@ -71,7 +71,7 @@ Infrastructure Engineer passionate about Platform as a Service. I like automatin
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.33.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.33.0), 1 week ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.33.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.33.0), 2 weeks ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 7 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
