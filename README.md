@@ -58,7 +58,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📒 Handy Gists
 
-- [extshot](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (6 months ago)
+- [extshot](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (7 months ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (10 months ago)
 
 #### 🔀 My recent Pull Requests
@@ -71,12 +71,12 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.35.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.35.0), 5 days ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.35.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.35.0), 6 days ago) - Python package for scraping recipes data
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) ([v0.1.6](https://github.com/cooklang/CookCLI/releases/tag/v0.1.6), 8 months ago) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 
 #### ⭐ Recent Stars
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 days ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (5 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (3 weeks ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 months ago)
 - [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (2 months ago)
