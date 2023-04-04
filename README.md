@@ -71,7 +71,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.35.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.35.0), 1 week ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.36.0](https://github.com/hhursev/recipe-scrapers/releases/tag/14.36.0), today) - Python package for scraping recipes data
 
 #### ⭐ Recent Stars
 
