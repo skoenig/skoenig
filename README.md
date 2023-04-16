@@ -52,7 +52,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (3 weeks ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 months ago)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 months ago)
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 months ago)
 - [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (3 months ago)
 
@@ -71,7 +71,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.36.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.36.1), 5 days ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.36.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.36.1), 6 days ago) - Python package for scraping recipes data
 
 #### ⭐ Recent Stars
 
