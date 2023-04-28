@@ -49,8 +49,8 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 <!-- end chipwolf/generate-badges default -->
 
 #### 🚧 Check out what I'm currently working on
-{{range recentContributions 7}}
-{{- if eq .Repo.Name "skoenig/einfachsatt" "skoenig/cookhack" }}
+{{range recentContributions 6}}
+{{- if eq .Repo.Name "skoenig/kochbuch" }}
 {{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
