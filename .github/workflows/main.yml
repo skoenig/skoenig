@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@master
 
       - uses: ChipWolf/generate-badges@main
+        continue-on-error: true
         with:
           output: "README.md.tpl"
           style: flat-square
