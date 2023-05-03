@@ -54,11 +54,12 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 months ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 months ago)
-- [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (3 months ago)
+- [skoenig/pulumi-gcp-sandbox](https://github.com/skoenig/pulumi-gcp-sandbox) - Pulumi setup for auto-expiring GCP projects for experimenting (4 months ago)
 
 #### 📒 Handy Gists
 
-- [extshot](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (7 months ago)
+- [Enhance your Kubernetes experience with custom kubectl plugins. Streamline operations, automate tasks, and optimize workflows for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (today)
+- [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (8 months ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (11 months ago)
 
 #### 🔀 My recent Pull Requests
@@ -66,17 +67,17 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (2 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (3 months ago)
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (3 months ago)
-- [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (7 months ago)
+- [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (8 months ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (11 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.36.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.36.1), 1 week ago) - Python package for scraping recipes data
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ([14.36.1](https://github.com/hhursev/recipe-scrapers/releases/tag/14.36.1), 3 weeks ago) - Python package for scraping recipes data
 
 #### ⭐ Recent Stars
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (today)
+- [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (1 week ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 month ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 months ago)
-- [ChipWolf/generate-badges](https://github.com/ChipWolf/generate-badges) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (3 months ago)
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! (4 months ago)
