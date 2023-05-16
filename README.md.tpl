@@ -9,6 +9,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 <!-- start chipwolf/generate-badges default -->
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white)
+[![BadgeSort](https://img.shields.io/badge/BadgeSort-000000.svg?style=flat-square&logo=githubsponsors)](https://github.com/ChipWolf/generate-badges)
 ![Icinga](https://img.shields.io/badge/Icinga-06062C.svg?style=flat-square&logo=icinga&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
