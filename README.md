@@ -59,7 +59,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📒 Handy Gists
 
-- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (1 week ago)
+- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (2 weeks ago)
 - [Enhance your Kubernetes experience with custom kubectl plugins. Streamline operations, automate tasks, and optimize workflows for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (1 month ago)
 - [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (9 months ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (1 year ago)
@@ -68,7 +68,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (3 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (4 months ago)
-- [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (4 months ago)
+- [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (5 months ago)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (9 months ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (1 year ago)
 
@@ -81,4 +81,4 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 - [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (1 month ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (2 months ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 months ago)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (4 months ago)
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (5 months ago)
