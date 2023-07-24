@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: ChipWolf/generate-badges@main
+      - uses: docker://ghcr.io/chipwolf/generate-badges:latest
         continue-on-error: true
         with:
           output: "README.md.tpl"
