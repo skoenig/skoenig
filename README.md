@@ -51,7 +51,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (4 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (5 months ago)
@@ -60,7 +60,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 #### 📒 Handy Gists
 
 - [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (2 months ago)
-- [Enhance your Kubernetes experience with custom kubectl plugins. Streamlining, automating and simplifying everyday tasks for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (2 months ago)
+- [Enhance your Kubernetes experience with custom kubectl plugins. Streamlining, automating and simplifying everyday tasks for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (3 months ago)
 - [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (11 months ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (1 year ago)
 
@@ -77,7 +77,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### ⭐ Recent Stars
 
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (2 months ago)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (3 months ago)
 - [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (3 months ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 months ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (4 months ago)
