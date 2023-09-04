@@ -82,4 +82,4 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (4 months ago)
 - [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (4 months ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (5 months ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (5 months ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (6 months ago)
