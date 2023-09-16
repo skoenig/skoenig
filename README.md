@@ -67,7 +67,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 #### 🔀 My recent Pull Requests
 
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (7 months ago)
-- [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (7 months ago)
+- [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (8 months ago)
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (8 months ago)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (1 year ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (1 year ago)
