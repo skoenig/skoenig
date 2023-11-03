@@ -78,8 +78,8 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### ⭐ Recent Stars
 
+- [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 day ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (1 month ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (3 months ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (6 months ago)
 - [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (6 months ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (7 months ago)
