@@ -53,7 +53,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 month ago)
-- [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (7 months ago)
+- [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (8 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (9 months ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (10 months ago)
 
@@ -78,8 +78,8 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### ⭐ Recent Stars
 
-- [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 week ago)
+- [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (2 weeks ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (1 month ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (3 months ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (6 months ago)
-- [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (6 months ago)
+- [doitintl/gcpinstances.info](https://github.com/doitintl/gcpinstances.info) - GCPinstances.info source code (7 months ago)
