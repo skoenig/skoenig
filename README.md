@@ -59,7 +59,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📒 Handy Gists
 
-- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (5 months ago)
+- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (6 months ago)
 - [Enhance your Kubernetes experience with custom kubectl plugins. Streamlining, automating and simplifying everyday tasks for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (6 months ago)
 - [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (1 year ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (2 years ago)
