@@ -51,7 +51,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (today)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 day ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 weeks ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (8 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (9 months ago)
@@ -74,7 +74,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-10-24.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-10-24.1), 3 weeks ago) - 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-10-24.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-10-24.1), 4 weeks ago) - 🚨 Collection of Prometheus alerting rules
 
 #### ⭐ Recent Stars
 
