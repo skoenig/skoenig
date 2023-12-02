@@ -68,17 +68,17 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (9 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (10 months ago)
-- [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (10 months ago)
+- [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (11 months ago)
 - [Fixes #5: check BACKUP program is existing and executable](https://github.com/pigmonkey/cryptshot/pull/6) on [pigmonkey/cryptshot](https://github.com/pigmonkey/cryptshot) (1 year ago)
 - [Unify function for output methods](https://github.com/cooklang/cook-import/pull/18) on [cooklang/cook-import](https://github.com/cooklang/cook-import) (2 years ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), today) - 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 1 day ago) - 🚨 Collection of Prometheus alerting rules
 
 #### ⭐ Recent Stars
 
-- [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (4 weeks ago)
+- [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 month ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (2 months ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (7 months ago)
