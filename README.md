@@ -51,7 +51,7 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (8 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (9 months ago)
@@ -74,11 +74,11 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 2 days ago) - 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 3 days ago) - 🚨 Collection of Prometheus alerting rules
 
 #### ⭐ Recent Stars
 
-- [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (1 day ago)
+- [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (2 days ago)
 - [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 month ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (2 months ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
