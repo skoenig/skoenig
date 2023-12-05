@@ -74,11 +74,11 @@ Hey there! I'm a DevOps Engineer with a pretty solid background in Observability
 
 #### 📦 Latest releases I've contributed to
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 3 days ago) - 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 4 days ago) - 🚨 Collection of Prometheus alerting rules
 
 #### ⭐ Recent Stars
 
-- [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (2 days ago)
+- [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (3 days ago)
 - [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 month ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (2 months ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
