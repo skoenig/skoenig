@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      # get slug names from https://simpleicons.org/
       - uses: docker://ghcr.io/chipwolf/badgesort:latest
         continue-on-error: true
         with:
@@ -20,17 +21,18 @@ jobs:
           slugs: |
             amazonaws
             apache
+            apachekafka
             apachemaven
-            django
+            cloudflare
+            digitalocean
             docker
-            elasticsearch
-            flask
             git
             githubactions
             gnubash
             go
             googlecloud
             grafana
+            helm
             heroku
             icinga
             javascript
@@ -38,6 +40,7 @@ jobs:
             kubernetes
             linux
             mariadb
+            mongodb
             nginx
             nodedotjs
             npm
@@ -49,7 +52,6 @@ jobs:
             puppet
             python
             redis
-            ruby
             saltproject
             subversion
             terraform
