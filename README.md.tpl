@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&descAlignY=55&color=0:00ab91,100:005182&fontColor=ffffff&text=Hi,%20my%20name%20is%20S%C3%B6ren&desc=[%CB%88z%C3%B8%CB%90%CA%81%C9%99n]&animation=fadeIn)
 
-Hey there! I'm a DevOps Engineer with a pretty solid background in Observability, Infrastructure as Code, Automation, and CI/CD, and I know my way around systems monitoring, configuration management, and back-end development. I'm all about creating systems that can stand the test of time and grow with your business. I believe in working together with my team, sticking to the best DevOps practices, and finding practical solutions to problems. I like automating things, building pipelines, exploring scalability problems and improving reliability and performance.
+Hey there! 👋 I am a Site Reliability Engineer with a strong background in Observability, Infrastructure as Code, Automation and CI/CD. I am all about building systems that can stand the test of time and grow with your business.
 
-- 🏢 I'm currently working at [Fit Analytics](https://www.fitanalytics.com/) as a DevOps Engineer
+I believe in cross-functional collaboration, following DevOps best practices and finding practical solutions to problems. I like automating things, building pipelines, exploring scalability issues, and improving reliability and performance.
+
 - 🌱 Interested in all things :page_with_curl: Open Source, :cloud: Cloud Native, :gear: DevOps, :robot: automation
 - 💬 Ping me about: **service reliability**, **scalability**, **observability**
 - ⚡ Fun fact: **peanut butter** is my Kryptonite
