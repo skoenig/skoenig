@@ -8,7 +8,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - 💬 Ping me about: **service reliability**, **scalability**, **observability**
 - ⚡ Fun fact: **peanut butter** is my Kryptonite
 
-<!-- start chipwolf/generate-badges default -->
+<!-- start chipwolf/badgesort default -->
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white)
 [![BadgeSort](https://img.shields.io/badge/BadgeSort-000000.svg?style=flat-square&logo=githubsponsors)](https://github.com/ChipWolf/generate-badges)
 ![Icinga](https://img.shields.io/badge/Icinga-06062C.svg?style=flat-square&logo=icinga&logoColor=white)
@@ -48,7 +48,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)
-<!-- end chipwolf/generate-badges default -->
+<!-- end chipwolf/badgesort default -->
 
 #### 🚧 Check out what I'm currently working on
 {{range recentContributions 6}}
