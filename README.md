@@ -53,7 +53,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (4 days ago)
+- [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (5 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (8 months ago)
@@ -68,7 +68,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (2 days ago)
+- [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (3 days ago)
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (10 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (10 months ago)
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (11 months ago)
