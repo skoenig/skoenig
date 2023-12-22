@@ -76,12 +76,12 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 2 weeks ago) - 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ([2023-12-01.1](https://github.com/samber/awesome-prometheus-alerts/releases/tag/2023-12-01.1), 3 weeks ago) - 🚨 Collection of Prometheus alerting rules
 
 #### ⭐ Recent Stars
 
 - [zalando/package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery (1 week ago)
 - [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (2 weeks ago)
 - [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 month ago)
-- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (2 months ago)
+- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (3 months ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
