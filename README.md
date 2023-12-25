@@ -68,8 +68,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (today)
-- [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (1 week ago)
+- [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (1 day ago)
+- [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (2 weeks ago)
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (10 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (11 months ago)
 - [Add under-utilized HPA alert](https://github.com/samber/awesome-prometheus-alerts/pull/330) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (11 months ago)
