@@ -80,8 +80,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
+- [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. (today)
 - [zalando/package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery (1 week ago)
 - [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (3 weeks ago)
 - [thehale/docker-python-poetry](https://github.com/thehale/docker-python-poetry) - Robust, lightweight, configurable python-poetry Docker images for any use case. (1 month ago)
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (3 months ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
