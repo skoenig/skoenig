@@ -80,7 +80,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 days ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 days ago)
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. (2 weeks ago)
 - [zalando/package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery (4 weeks ago)
 - [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (1 month ago)
