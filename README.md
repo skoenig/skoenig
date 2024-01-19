@@ -54,7 +54,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 🚧 Check out what I'm currently working on
 
 - [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (1 month ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 month ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 months ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (10 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (11 months ago)
