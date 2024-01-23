@@ -55,7 +55,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 - [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (1 month ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 months ago)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 months ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 months ago)
 - [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (10 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (11 months ago)
 
@@ -68,7 +68,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (4 weeks ago)
+- [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (1 month ago)
 - [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (1 month ago)
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (11 months ago)
 - [fix: Ignore &#34;run.googleapis.com/operation-id&#34; annotation in Cloud Run](https://github.com/terraform-google-modules/terraform-google-slo/pull/114) on [terraform-google-modules/terraform-google-slo](https://github.com/terraform-google-modules/terraform-google-slo) (1 year ago)
@@ -79,7 +79,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 week ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 weeks ago)
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. (4 weeks ago)
 - [zalando/package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery (1 month ago)
 - [smkent/waffles](https://github.com/smkent/waffles) - 🧇 📤 Email auto reply bot for JMAP mailboxes (1 month ago)
