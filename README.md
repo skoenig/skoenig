@@ -68,7 +68,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (today)
+- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (1 day ago)
 - [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (3 months ago)
 - [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (3 months ago)
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (1 year ago)
@@ -80,7 +80,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### ⭐ Recent Stars
 
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (1 week ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
-- [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. (2 months ago)
+- [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools. (3 months ago)
 - [zalando/package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery (3 months ago)
