@@ -57,7 +57,6 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
 - [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (3 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (5 months ago)
-- [skoenig/github-org-mirror](https://github.com/skoenig/github-org-mirror) - Scripts to mirror repositories from one Github instance to a another (1 year ago)
 
 #### 📒 Handy Gists
 
@@ -68,8 +67,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (1 day ago)
-- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (2 days ago)
+- [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (2 days ago)
+- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (3 days ago)
 - [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (3 months ago)
 - [refactor: Make the project importable as a module](https://github.com/Praqma/git-metrics/pull/9) on [Praqma/git-metrics](https://github.com/Praqma/git-metrics) (3 months ago)
 - [Fix group by date actions](https://github.com/skoenig/vimwiki-todo/pull/2) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (1 year ago)
@@ -79,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (1 day ago)
+- [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (2 days ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
