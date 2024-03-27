@@ -53,7 +53,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (today)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 day ago)
+- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (1 day ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
 - [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (3 months ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (5 months ago)
@@ -67,10 +68,10 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (today)
-- [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (today)
-- [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (2 days ago)
-- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (3 days ago)
+- [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (1 day ago)
+- [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (1 day ago)
+- [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (3 days ago)
+- [doc: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (4 days ago)
 - [Added roadmap-list.cjs for compiling textual roadmaps](https://github.com/kamranahmedse/developer-roadmap/pull/4910) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (3 months ago)
 
 #### 📦 Latest releases I've contributed to
@@ -78,7 +79,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (2 days ago)
+- [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (3 days ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
