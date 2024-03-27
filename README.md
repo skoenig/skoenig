@@ -53,11 +53,11 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds (today)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 day ago)
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (1 day ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
 - [skoenig/jsonresume-theme-laconic](https://github.com/skoenig/jsonresume-theme-laconic) -  (3 months ago)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (5 months ago)
 
 #### 📒 Handy Gists
 
@@ -76,6 +76,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.10.0](https://github.com/KusionStack/kusion/releases/tag/v0.10.0), 2 months ago) - Deliver intentions to Kubernetes and Clouds
 
 #### ⭐ Recent Stars
 
