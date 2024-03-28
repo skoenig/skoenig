@@ -76,7 +76,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.10.0](https://github.com/KusionStack/kusion/releases/tag/v0.10.0), 2 months ago) - Deliver intentions to Kubernetes and Clouds
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.11.0-rc.1), today) - Deliver intentions to Kubernetes and Clouds
 
 #### ⭐ Recent Stars
 
