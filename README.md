@@ -53,7 +53,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (today)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 day ago)
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds (1 week ago)
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (1 week ago)
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (1 week ago)
@@ -76,13 +76,13 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0](https://github.com/KusionStack/kusion/releases/tag/v0.11.0), 2 days ago) - Deliver intentions to Kubernetes and Clouds
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0](https://github.com/KusionStack/kusion/releases/tag/v0.11.0), 3 days ago) - Deliver intentions to Kubernetes and Clouds
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.0-beta.0](https://github.com/kubernetes/minikube/releases/tag/v1.33.0-beta.0), 1 week ago) - Run Kubernetes locally
 
 #### ⭐ Recent Stars
 
-- [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) -  (6 days ago)
-- [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (6 days ago)
+- [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) -  (1 week ago)
+- [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (1 week ago)
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (1 week ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (3 weeks ago)
