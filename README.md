@@ -4,7 +4,7 @@ Hey there! 👋 I am a Site Reliability Engineer with a strong background in Obs
 
 I believe in cross-functional collaboration, following DevOps best practices and finding practical solutions to problems. I like automating things, building pipelines, exploring scalability issues, and improving reliability and performance.
 
-- 🌱 Interested in all things :page_with_curl: Open Source, :cloud: Cloud Native, :gear: DevOps, :robot: automation
+- 🌱 Interested in all things :page_with_curl: Open Source, :cloud: Cloud Native, :infinity: DevOps, :robot: automation
 - 💬 Ping me about: **service reliability**, **scalability**, **observability**
 - ⚡ Fun fact: **peanut butter** is my Kryptonite
 
