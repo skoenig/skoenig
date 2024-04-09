@@ -53,10 +53,10 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (5 days ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (6 days ago)
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds (1 week ago)
-- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (1 week ago)
-- [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (1 week ago)
+- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (2 weeks ago)
+- [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (2 weeks ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (2 weeks ago)
 
 #### 📒 Handy Gists
@@ -69,15 +69,15 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 🔀 My recent Pull Requests
 
 - [document vimwiki tags used as task context](https://github.com/skoenig/vimwiki-todo/pull/5) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (1 week ago)
-- [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (1 week ago)
-- [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (1 week ago)
+- [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (2 weeks ago)
+- [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (2 weeks ago)
 - [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (2 weeks ago)
 - [site: VirtualBox driver NIC type alternative for performance enhancement](https://github.com/kubernetes/minikube/pull/18493) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (2 weeks ago)
 
 #### 📦 Latest releases I've contributed to
 
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0](https://github.com/KusionStack/kusion/releases/tag/v0.11.0), 1 week ago) - Deliver intentions to Kubernetes and Clouds
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.0-beta.0](https://github.com/kubernetes/minikube/releases/tag/v1.33.0-beta.0), 1 week ago) - Run Kubernetes locally
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.0-beta.0](https://github.com/kubernetes/minikube/releases/tag/v1.33.0-beta.0), 2 weeks ago) - Run Kubernetes locally
 
 #### ⭐ Recent Stars
 
@@ -85,4 +85,4 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (1 week ago)
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (2 weeks ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (4 weeks ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (1 month ago)
