@@ -54,9 +54,10 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 🚧 Check out what I'm currently working on
 
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (6 days ago)
+- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 week ago)
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds (1 week ago)
-- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (2 weeks ago)
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (2 weeks ago)
+- [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (2 weeks ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (2 weeks ago)
 
 #### 📒 Handy Gists
