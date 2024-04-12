@@ -85,5 +85,5 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) -  (2 weeks ago)
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (2 weeks ago)
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (2 weeks ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 weeks ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (4 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (1 month ago)
