@@ -58,7 +58,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds (2 weeks ago)
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (2 weeks ago)
 - [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools (2 weeks ago)
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (2 weeks ago)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (3 weeks ago)
 
 #### 📒 Handy Gists
 
@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (today)
+- [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (1 day ago)
 - [document vimwiki tags used as task context](https://github.com/skoenig/vimwiki-todo/pull/5) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (2 weeks ago)
 - [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (2 weeks ago)
 - [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (2 weeks ago)
