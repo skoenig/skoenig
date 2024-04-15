@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (2 days ago)
+- [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (3 days ago)
 - [document vimwiki tags used as task context](https://github.com/skoenig/vimwiki-todo/pull/5) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (2 weeks ago)
 - [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (2 weeks ago)
 - [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (2 weeks ago)
@@ -77,7 +77,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0](https://github.com/KusionStack/kusion/releases/tag/v0.11.0), 1 week ago) - Deliver intentions to Kubernetes and Clouds
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.0](https://github.com/KusionStack/kusion/releases/tag/v0.11.0), 2 weeks ago) - Deliver intentions to Kubernetes and Clouds
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.0-beta.0](https://github.com/kubernetes/minikube/releases/tag/v1.33.0-beta.0), 2 weeks ago) - Run Kubernetes locally
 
 #### ⭐ Recent Stars
