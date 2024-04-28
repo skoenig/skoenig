@@ -62,7 +62,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📒 Handy Gists
 
-- [Some notes on and excerpts from Google&#39;s SRE books](https://gist.github.com/7bacab2124c14a1288b65149bd0b5209) (1 day ago)
+- [Some notes on and excerpts from Google&#39;s SRE books](https://gist.github.com/7bacab2124c14a1288b65149bd0b5209) (2 days ago)
 - [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (11 months ago)
 - [Enhance your Kubernetes experience with custom kubectl plugins. Streamlining, automating and simplifying everyday tasks for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (1 year ago)
 - [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (2 years ago)
@@ -83,8 +83,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (3 days ago)
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to create multi-instance SaaS from Helm charts using Kubernetes-native APIs (5 days ago)
+- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (4 days ago)
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to create multi-instance SaaS from Helm charts using Kubernetes-native APIs (6 days ago)
 - [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) -  (1 month ago)
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering (1 month ago)
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources. (1 month ago)
