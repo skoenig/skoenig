@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.1-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.11.1-rc.1), 1 day ago) - Deliver intentions to Kubernetes and Clouds
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.1](https://github.com/KusionStack/kusion/releases/tag/v0.11.1), today) - Deliver intentions to Kubernetes and Clouds
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.0](https://github.com/kubernetes/minikube/releases/tag/v1.33.0), 1 week ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 1 year ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
