@@ -63,7 +63,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 📒 Handy Gists
 
 - [Some notes on and excerpts from Google&#39;s SRE books](https://gist.github.com/7bacab2124c14a1288b65149bd0b5209) (2 weeks ago)
-- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (11 months ago)
+- [How to change sysctl settings on GKE Nodes: resolving Kubernetes network issues caused by ARP overflow](https://gist.github.com/a44dffdde475056d27ecef026cd2f9a0) (1 year ago)
 - [Enhance your Kubernetes experience with custom kubectl plugins. Streamlining, automating and simplifying everyday tasks for efficient cluster management.](https://gist.github.com/e7de3e8437b23437daf5eca42e679a1a) (1 year ago)
 - [extshot - Ensure automated encrypted backups and long-term storage for Linux and macOS.](https://gist.github.com/c19f707e02a274f6371697163ee18b9f) (2 years ago)
 - [youtube-dl &#43; podget = youget ](https://gist.github.com/d4a67764d5b653bef06574fa5cc63ef3) (2 years ago)
@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 2 days ago) - Run Kubernetes locally
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 3 days ago) - Run Kubernetes locally
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.1](https://github.com/KusionStack/kusion/releases/tag/v0.11.1), 2 weeks ago) - Deliver intentions to Kubernetes and Clouds
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 1 year ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
