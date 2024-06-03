@@ -53,7 +53,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 day ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 days ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 months ago)
@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 2 weeks ago) - Run Kubernetes locally
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 3 weeks ago) - Run Kubernetes locally
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.11.1](https://github.com/KusionStack/kusion/releases/tag/v0.11.1), 1 month ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform(IDP).
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 1 year ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
