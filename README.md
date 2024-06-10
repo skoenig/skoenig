@@ -78,8 +78,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.0-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.12.0-rc.1), 5 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform(IDP).
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 3 weeks ago) - Run Kubernetes locally
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.0-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.12.0-rc.1), 6 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform(IDP).
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 4 weeks ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 1 year ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 #### ⭐ Recent Stars
