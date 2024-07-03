@@ -70,11 +70,11 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
+- [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (today)
 - [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (2 months ago)
 - [document vimwiki tags used as task context](https://github.com/skoenig/vimwiki-todo/pull/5) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (3 months ago)
 - [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (3 months ago)
 - [fix: typo in descriptive name for www.kubestack.com URL](https://github.com/seifrajhi/awesome-platform-engineering-tools/pull/88) on [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) (3 months ago)
-- [feat: add flag to init cmd to specify output file path](https://github.com/KusionStack/kusion/pull/954) on [KusionStack/kusion](https://github.com/KusionStack/kusion) (3 months ago)
 
 #### 📦 Latest releases I've contributed to
 
