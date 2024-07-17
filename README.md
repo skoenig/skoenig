@@ -70,7 +70,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (1 week ago)
+- [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (2 weeks ago)
 - [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (3 months ago)
 - [document vimwiki tags used as task context](https://github.com/skoenig/vimwiki-todo/pull/5) on [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) (3 months ago)
 - [add Radius project](https://github.com/shospodarets/awesome-platform-engineering/pull/17) on [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) (3 months ago)
@@ -84,7 +84,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [stripe/skycfg](https://github.com/stripe/skycfg) - Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages. (6 days ago)
+- [stripe/skycfg](https://github.com/stripe/skycfg) - Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages. (1 week ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 week ago)
 - [cue-labs/cue-by-example](https://github.com/cue-labs/cue-by-example) -  (1 week ago)
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration (1 week ago)
