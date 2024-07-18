@@ -84,8 +84,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
+- [ericanastas/deploy-google-app-script-action](https://github.com/ericanastas/deploy-google-app-script-action) -  (today)
 - [stripe/skycfg](https://github.com/stripe/skycfg) - Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages. (1 week ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 week ago)
 - [cue-labs/cue-by-example](https://github.com/cue-labs/cue-by-example) -  (2 weeks ago)
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration (2 weeks ago)
-- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language (2 weeks ago)
