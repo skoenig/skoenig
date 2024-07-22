@@ -53,7 +53,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (4 days ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (5 days ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 week ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
@@ -78,14 +78,14 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.1-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.12.1-rc.1), 4 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.1-rc.1](https://github.com/KusionStack/kusion/releases/tag/v0.12.1-rc.1), 5 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 2 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 #### ⭐ Recent Stars
 
-- [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (today)
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (today)
-- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (today)
-- [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files (today)
-- [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall (today)
+- [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (1 day ago)
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 day ago)
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (1 day ago)
+- [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files (1 day ago)
+- [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall (1 day ago)
