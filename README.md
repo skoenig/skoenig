@@ -78,13 +78,13 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.1-rc.2](https://github.com/KusionStack/kusion/releases/tag/v0.12.1-rc.2), 3 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.12.1-rc.2](https://github.com/KusionStack/kusion/releases/tag/v0.12.1-rc.2), 4 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.33.1](https://github.com/kubernetes/minikube/releases/tag/v1.33.1), 2 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 #### ⭐ Recent Stars
 
-- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (6 days ago)
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (1 week ago)
 - [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (1 week ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 week ago)
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (1 week ago)
