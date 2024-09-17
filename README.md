@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.5.4](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.5.4), 6 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.5.5](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.5.5), today) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 1 week ago) - Run Kubernetes locally
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0-alpha.2](https://github.com/KusionStack/kusion/releases/tag/v0.13.0-alpha.2), 2 weeks ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
