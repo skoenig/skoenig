@@ -55,10 +55,9 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (1 month ago)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 months ago)
-- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 months ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 months ago)
+- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 months ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (5 months ago)
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP). (6 months ago)
 
 #### 📒 Handy Gists
 
@@ -70,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [fix: move example code for resource timeouts to correct section](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/645) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (1 month ago)
+- [fix: move example code for resource timeouts to correct section](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/645) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (2 months ago)
 - [doc: fix URL to docs page about network preparation](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/625) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (2 months ago)
 - [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (3 months ago)
 - [DevOps / Serverless / GCP (Cloud) Functions](https://github.com/kamranahmedse/developer-roadmap/pull/5496) on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) (5 months ago)
@@ -78,15 +77,15 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 2 days ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.5.6](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.5.6), 2 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 3 weeks ago) - Run Kubernetes locally
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.5.7](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.5.7), 5 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 1 week ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 4 weeks ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 #### ⭐ Recent Stars
 
+- [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (6 days ago)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (3 weeks ago)
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality testing for the modern data stack (SQL, Spark, and Pandas) https://www.soda.io (3 weeks ago)
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (2 months ago)
 - [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (2 months ago)
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (2 months ago)
