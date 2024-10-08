@@ -51,6 +51,16 @@ I believe in cross-functional collaboration, following DevOps best practices and
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)
 <!-- end chipwolf/badgesort default -->
 
+#### 📝 Handy Gists
+{{range gists 5}}
+- [{{.Description}}]({{.URL}})
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
 #### 🚧 Check out what I'm currently working on
 {{range recentContributions 6}}
 {{- if eq .Repo.Name "skoenig/kochbuch" }}
@@ -59,22 +69,12 @@ I believe in cross-functional collaboration, following DevOps best practices and
 {{- end}}
 {{- end}}
 
-#### 📒 Handy Gists
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 🔀 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 📦 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+#### 🔀 My recent Pull Requests
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
