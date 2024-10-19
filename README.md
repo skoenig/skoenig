@@ -65,7 +65,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (1 month ago)
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality testing for the modern data stack (SQL, Spark, and Pandas) https://www.soda.io (1 month ago)
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (2 months ago)
-- [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (2 months ago)
+- [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript (3 months ago)
 
 #### 🚧 Check out what I'm currently working on
 
