@@ -61,7 +61,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (3 weeks ago)
+- [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (4 weeks ago)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (1 month ago)
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality testing for the modern data stack (SQL, Spark, and Pandas) https://www.soda.io (1 month ago)
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (3 months ago)
@@ -77,8 +77,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.1](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.1), 1 day ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 4 weeks ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.1](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.1), 2 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 1 month ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 1 month ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
