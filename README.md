@@ -61,7 +61,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (3 days ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (4 days ago)
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (2 weeks ago)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification (2 weeks ago)
 - [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (1 month ago)
@@ -77,14 +77,14 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.2](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.2), today) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.2](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.2), 1 day ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 1 month ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 2 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 #### 🔀 My recent Pull Requests
 
-- [Docs additional examples](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/706) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (6 days ago)
+- [Docs additional examples](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/706) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (1 week ago)
 - [fix: move example code for resource timeouts to correct section](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/645) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (3 months ago)
 - [doc: fix URL to docs page about network preparation](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/625) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (3 months ago)
 - [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (4 months ago)
