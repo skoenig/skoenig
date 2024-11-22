@@ -69,8 +69,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (2 days ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (6 days ago)
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (3 days ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (4 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (4 months ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (6 months ago)
@@ -84,7 +84,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [Docs additional examples](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/706) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (1 week ago)
+- [Docs additional examples](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/706) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (2 weeks ago)
 - [fix: move example code for resource timeouts to correct section](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/645) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (3 months ago)
 - [doc: fix URL to docs page about network preparation](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/625) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (3 months ago)
 - [fix(common-functions): fix device type string](https://github.com/dermotbradley/create-alpine-disk-image/pull/56) on [dermotbradley/create-alpine-disk-image](https://github.com/dermotbradley/create-alpine-disk-image) (4 months ago)
