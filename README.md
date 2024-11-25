@@ -61,7 +61,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### ⭐ Recent Stars
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 week ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (2 weeks ago)
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (3 weeks ago)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification (3 weeks ago)
 - [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (1 month ago)
@@ -69,15 +69,15 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (5 days ago)
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (6 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (4 months ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (4 months ago)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (6 months ago)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (7 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.3](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.3), 2 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.3](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.3), 3 days ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 1 month ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 2 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
