@@ -62,8 +62,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### ⭐ Recent Stars
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 month ago)
-- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (1 month ago)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification (1 month ago)
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (2 months ago)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification (2 months ago)
 - [ionos-cloud/provisioning-local-k8s-environment](https://github.com/ionos-cloud/provisioning-local-k8s-environment) - A local K8s development environment close to production for Provisioning Platform. (2 months ago)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (3 months ago)
 
@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 📦 Latest releases I've contributed to
 
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.8](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.8), 2 weeks ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 2 months ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.13.0](https://github.com/KusionStack/kusion/releases/tag/v0.13.0), 3 months ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.34.0](https://github.com/kubernetes/minikube/releases/tag/v1.34.0), 3 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
