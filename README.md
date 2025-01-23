@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (6 days ago)
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 week ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 month ago)
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (2 months ago)
@@ -77,8 +77,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.14.0](https://github.com/KusionStack/kusion/releases/tag/v0.14.0), today) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.35.0](https://github.com/kubernetes/minikube/releases/tag/v1.35.0), 6 days ago) - Run Kubernetes locally
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.14.0](https://github.com/KusionStack/kusion/releases/tag/v0.14.0), 1 day ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.35.0](https://github.com/kubernetes/minikube/releases/tag/v1.35.0), 1 week ago) - Run Kubernetes locally
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.6.9](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.6.9), 1 week ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
