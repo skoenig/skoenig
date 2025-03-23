@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (today)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 day ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (2 months ago)
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs. (4 months ago)
@@ -78,7 +78,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 📦 Latest releases I've contributed to
 
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.3](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.3), 2 weeks ago) - The IonosCloud Terraform provider gives the ability to deploy and configure resources using the IonosCloud APIs.
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.14.0](https://github.com/KusionStack/kusion/releases/tag/v0.14.0), 1 month ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) ([v0.14.0](https://github.com/KusionStack/kusion/releases/tag/v0.14.0), 2 months ago) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.35.0](https://github.com/kubernetes/minikube/releases/tag/v1.35.0), 2 months ago) - Run Kubernetes locally
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ([4.0](https://github.com/kamranahmedse/developer-roadmap/releases/tag/4.0), 2 years ago) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
