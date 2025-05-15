@@ -71,13 +71,13 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 week ago)
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (1 week ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 months ago)
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs. (5 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.32.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.32.0), 2 weeks ago) - Framework for implementing custom metrics support for Kubernetes
+- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.32.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.32.0), 3 weeks ago) - Framework for implementing custom metrics support for Kubernetes
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.6](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.6), 1 month ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 
 #### 🔀 My recent Pull Requests
