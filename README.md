@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (6 days ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 week ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (2 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (4 months ago)
@@ -77,12 +77,12 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.7](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.7), 3 days ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.32.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.32.0), 4 weeks ago) - Framework for implementing custom metrics support for Kubernetes
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.7](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.7), 4 days ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
+- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.32.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.32.0), 1 month ago) - Framework for implementing custom metrics support for Kubernetes
 
 #### 🔀 My recent Pull Requests
 
-- [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (2 days ago)
+- [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (3 days ago)
 - [docs: update README with local test instructions](https://github.com/kubernetes-sigs/custom-metrics-apiserver/pull/202) on [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) (2 weeks ago)
 - [fix(docs): correct malformed YAML keys in sample-config.yaml](https://github.com/kubernetes-sigs/prometheus-adapter/pull/698) on [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) (2 weeks ago)
 - [fix(quote): handle None response from additional info fetch](https://github.com/ranaroussi/yfinance/pull/2286) on [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) (3 months ago)
