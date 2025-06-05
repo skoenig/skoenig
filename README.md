@@ -70,8 +70,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 🚧 Check out what I'm currently working on
 
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 weeks ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (4 weeks ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
+- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (1 month ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (4 months ago)
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs. (6 months ago)
 
@@ -83,7 +83,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 #### 🔀 My recent Pull Requests
 
 - [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (2 weeks ago)
-- [docs: update README with local test instructions](https://github.com/kubernetes-sigs/custom-metrics-apiserver/pull/202) on [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) (4 weeks ago)
-- [fix(docs): correct malformed YAML keys in sample-config.yaml](https://github.com/kubernetes-sigs/prometheus-adapter/pull/698) on [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) (4 weeks ago)
+- [docs: update README with local test instructions](https://github.com/kubernetes-sigs/custom-metrics-apiserver/pull/202) on [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) (1 month ago)
+- [fix(docs): correct malformed YAML keys in sample-config.yaml](https://github.com/kubernetes-sigs/prometheus-adapter/pull/698) on [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) (1 month ago)
 - [fix(quote): handle None response from additional info fetch](https://github.com/ranaroussi/yfinance/pull/2286) on [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) (3 months ago)
 - [Docs additional examples](https://github.com/ionos-cloud/terraform-provider-ionoscloud/pull/706) on [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) (6 months ago)
