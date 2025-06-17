@@ -19,41 +19,49 @@ jobs:
           output: "README.md.tpl"
           style: flat-square
           slugs: |
+            ansible
             amazonaws
             apache
             apachekafka
-            apachemaven
+            atlassian
             cloudflare
+            conventionalcommits
+            dependabot
             digitalocean
             docker
             git
             githubactions
+            gitlab
             gnubash
             go
             googlecloud
             grafana
             helm
             heroku
-            icinga
+            hetzner
+            ionos
+            jaeger
             javascript
             jenkins
             kubernetes
             linux
             mariadb
+            minio
             mongodb
             nginx
             nodedotjs
             npm
+            opentelemetry
             packer
-            php
+            pagerduty
             postgresql
             prometheus
             pulumi
             puppet
             python
             redis
+            renovate
             saltproject
-            subversion
             terraform
             travisci
             typescript
