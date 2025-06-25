@@ -77,8 +77,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.8](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.8), today) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 6 days ago) - Framework for implementing custom metrics support for Kubernetes
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.7](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.7), 1 month ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 
 #### 🔀 My recent Pull Requests
 
