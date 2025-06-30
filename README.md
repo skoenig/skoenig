@@ -69,7 +69,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 days ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (today)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 days ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 week ago)
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (1 month ago)
