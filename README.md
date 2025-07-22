@@ -69,15 +69,15 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (2 days ago)
-- [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (2 weeks ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 days ago)
+- [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (3 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (2 months ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (6 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.11](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.11), 1 week ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
+- [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.11](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.11), 2 weeks ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 1 month ago) - Framework for implementing custom metrics support for Kubernetes
 
 #### 🔀 My recent Pull Requests
