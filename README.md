@@ -74,11 +74,11 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (today)
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (2 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (3 weeks ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 month ago)
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) - Framework for implementing custom metrics support for Kubernetes (3 months ago)
 
 #### 📦 Latest releases I've contributed to
 
@@ -88,8 +88,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
+- [ci: test building on Github Actions](https://github.com/skoenig/mysql-replica-http-healthcheck/pull/1) on [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) (today)
 - [fix: allow slugs to be missing in simpleicons package](https://github.com/ChipWolf/BadgeSort/pull/56) on [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) (2 weeks ago)
 - [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (2 months ago)
 - [docs: update README with local test instructions](https://github.com/kubernetes-sigs/custom-metrics-apiserver/pull/202) on [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) (3 months ago)
 - [fix(docs): correct malformed YAML keys in sample-config.yaml](https://github.com/kubernetes-sigs/prometheus-adapter/pull/698) on [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) (3 months ago)
-- [fix(quote): handle None response from additional info fetch](https://github.com/ranaroussi/yfinance/pull/2286) on [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) (5 months ago)
