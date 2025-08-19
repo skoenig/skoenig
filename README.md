@@ -74,7 +74,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (6 days ago)
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 week ago)
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (3 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 month ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
@@ -82,7 +82,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-11-5.7-20250801-2191-44fde156](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-11-5.7-20250801-2191-44fde156), 6 days ago) - health checking MySQL replicas over HTTP
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-11-5.7-20250801-2191-44fde156](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-11-5.7-20250801-2191-44fde156), 1 week ago) - health checking MySQL replicas over HTTP
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.1.5](https://github.com/ChipWolf/BadgeSort/releases/tag/3.1.5), 3 weeks ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.12](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.12), 3 weeks ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 2 months ago) - Framework for implementing custom metrics support for Kubernetes
@@ -91,6 +91,6 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 - [ci: test building on Github Actions](https://github.com/skoenig/mysql-replica-http-healthcheck/pull/1) on [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) (1 week ago)
 - [fix: allow slugs to be missing in simpleicons package](https://github.com/ChipWolf/BadgeSort/pull/56) on [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) (3 weeks ago)
-- [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (2 months ago)
+- [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (3 months ago)
 - [docs: update README with local test instructions](https://github.com/kubernetes-sigs/custom-metrics-apiserver/pull/202) on [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) (3 months ago)
 - [fix(docs): correct malformed YAML keys in sample-config.yaml](https://github.com/kubernetes-sigs/prometheus-adapter/pull/698) on [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) (3 months ago)
