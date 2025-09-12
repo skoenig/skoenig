@@ -73,8 +73,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (5 days ago)
-- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 week ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (6 days ago)
+- [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (2 weeks ago)
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (1 month ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (2 months ago)
@@ -88,7 +88,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
-- [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (5 days ago)
+- [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (6 days ago)
 - [ci: test building on Github Actions](https://github.com/skoenig/mysql-replica-http-healthcheck/pull/1) on [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) (1 month ago)
 - [fix: allow slugs to be missing in simpleicons package](https://github.com/ChipWolf/BadgeSort/pull/56) on [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) (1 month ago)
 - [Add runbook for PrometheusSDRefreshFailure](https://github.com/prometheus-operator/runbooks/pull/89) on [prometheus-operator/runbooks](https://github.com/prometheus-operator/runbooks) (3 months ago)
