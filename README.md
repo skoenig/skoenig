@@ -73,7 +73,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (today)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Small conceptual website monitor using Kafka and PostgreSQL. (1 day ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 weeks ago)
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (1 month ago)
@@ -84,11 +84,11 @@ I believe in cross-functional collaboration, following DevOps best practices and
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-11-5.7-20250801-2191-7ae71f71](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-11-5.7-20250801-2191-7ae71f71), 2 weeks ago) - health checking MySQL replicas over HTTP
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.14](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.14), 3 weeks ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.1.5](https://github.com/ChipWolf/BadgeSort/releases/tag/3.1.5), 1 month ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 2 months ago) - Framework for implementing custom metrics support for Kubernetes
+- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 3 months ago) - Framework for implementing custom metrics support for Kubernetes
 
 #### 🔀 My recent Pull Requests
 
-- [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 day ago)
+- [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (2 days ago)
 - [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 week ago)
 - [ci: test building on Github Actions](https://github.com/skoenig/mysql-replica-http-healthcheck/pull/1) on [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) (1 month ago)
 - [fix: allow slugs to be missing in simpleicons package](https://github.com/ChipWolf/BadgeSort/pull/56) on [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) (1 month ago)
