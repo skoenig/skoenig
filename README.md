@@ -88,8 +88,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🔀 My recent Pull Requests
 
+- [0.4.0](https://github.com/skoenig/jsonresume-theme-engineering/pull/15) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (today)
 - [Migrate to resumed CLI](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (1 day ago)
 - [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (2 weeks ago)
 - [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (3 weeks ago)
 - [ci: test building on Github Actions](https://github.com/skoenig/mysql-replica-http-healthcheck/pull/1) on [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) (1 month ago)
-- [fix: allow slugs to be missing in simpleicons package](https://github.com/ChipWolf/BadgeSort/pull/56) on [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) (2 months ago)
