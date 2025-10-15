@@ -73,7 +73,7 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 day ago)
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (today)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (5 days ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 week ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 month ago)
@@ -81,8 +81,8 @@ I believe in cross-functional collaboration, following DevOps best practices and
 
 #### 📦 Latest releases I've contributed to
 
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-11-8.4-20251006-2257-6fadc470](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-11-8.4-20251006-2257-6fadc470), today) - health checking MySQL replicas over HTTP
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.16](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.16), today) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-11-5.7-20251006-2257-b2ab59e7](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-11-5.7-20251006-2257-b2ab59e7), today) - health checking MySQL replicas over HTTP
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.1.5](https://github.com/ChipWolf/BadgeSort/releases/tag/3.1.5), 2 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 3 months ago) - Framework for implementing custom metrics support for Kubernetes
 
