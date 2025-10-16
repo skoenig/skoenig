@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&descAlignY=55&color=0:00ab91,100:005182&fontColor=ffffff&text=Hi,%20my%20name%20is%20S%C3%B6ren&desc=[%CB%88z%C3%B8%CB%90%CA%81%C9%99n]&animation=fadeIn)
 
-Hey there! 👋 I am a Site Reliability Engineer with a strong background in Observability, Infrastructure as Code, Automation and CI/CD. I am all about building systems that can stand the test of time and grow with your business.
+Hey! I'm Sören – a **Site Reliability & Cloud Platform Engineer** with 15 years of experience building and optimizing **scalable, resilient systems** that grow with businesses. My focus? **Observability, automation, and cloud-native architectures**.
 
-I believe in cross-functional collaboration, following DevOps best practices and finding practical solutions to problems. I like automating things, building pipelines, exploring scalability issues, and improving reliability and performance.
+I thrive on **cross-functional collaboration** and **DevOps best practices**, solving real-world problems with **pragmatic, business-aligned solutions**. Whether it's designing fail-safe pipelines, troubleshooting scalability bottlenecks, or improving system reliability, I love making complex systems work seamlessly.
 
-- 🌱 Interested in all things :page_with_curl: Open Source, :cloud: Cloud Native, :infinity: DevOps, :robot: automation
-- 💬 Ping me about: **service reliability**, **scalability**, **observability**
-- ⚡ Fun fact: **peanut butter** is my Kryptonite
+- 🌱 Passionate about **:page_with_curl: Open Source**, **:cloud: Cloud Native**, **:infinity: DevOps**, and **:robot: Automation**
+- 💬 Let’s chat about **service reliability**, **scalability**, or **observability**
+- ⚡ Fun fact: **Peanut butter** is my Kryptonite
+- 🌄 Beyond the terminal, I’m an **adventurous hiker** and **visual arts explorer**
 
 <!-- start chipwolf/badgesort default -->
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)
