@@ -19,8 +19,8 @@ jobs:
           output: "README.md.tpl"
           style: flat-square
           slugs: |
-            ansible
             amazonaws
+            ansible
             apache
             apachekafka
             atlassian
@@ -40,8 +40,10 @@ jobs:
             heroku
             hetzner
             ionos
+            jaeger
             javascript
             jenkins
+            kibana
             kubernetes
             linux
             mariadb
@@ -50,6 +52,7 @@ jobs:
             nginx
             nodedotjs
             npm
+            opensearch
             opentelemetry
             packer
             pagerduty
@@ -59,7 +62,7 @@ jobs:
             puppet
             python
             redis
-            Renovate
+            renovate
             saltproject
             terraform
             travisci
