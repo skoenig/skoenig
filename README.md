@@ -84,7 +84,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20251006-2257-6827c739](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20251006-2257-6827c739), 1 day ago) - health checking MySQL replicas over HTTP
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20251006-2257-1815725f](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20251006-2257-1815725f), today) - health checking MySQL replicas over HTTP
 - [ionos-cloud/terraform-provider-ionoscloud](https://github.com/ionos-cloud/terraform-provider-ionoscloud) ([v6.7.16](https://github.com/ionos-cloud/terraform-provider-ionoscloud/releases/tag/v6.7.16), 6 days ago) - The IONOS Cloud Terraform provider gives the ability to deploy and configure resources using the IONOS Cloud APIs.
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.1.5](https://github.com/ChipWolf/BadgeSort/releases/tag/3.1.5), 2 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 4 months ago) - Framework for implementing custom metrics support for Kubernetes
