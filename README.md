@@ -84,8 +84,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20251112-2294-e9362e8d](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20251112-2294-e9362e8d), today) - health checking MySQL replicas over HTTP
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 1 week ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20251112-2294-1815725f](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20251112-2294-1815725f), 1 week ago) - health checking MySQL replicas over HTTP
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.33.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.33.0), 5 months ago) - Framework for implementing custom metrics support for Kubernetes
 
 #### 🔀 My recent Pull Requests
