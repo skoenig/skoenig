@@ -76,8 +76,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 week ago)
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 week ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (2 weeks ago)
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (2 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 month ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 months ago)
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting (4 months ago)
@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
-- [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering/pull/25) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (4 weeks ago)
+- [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering/pull/25) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (1 month ago)
 - [0.4.0](https://github.com/skoenig/jsonresume-theme-engineering/pull/15) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
 - [Migrate to resumed CLI](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
 - [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (2 months ago)
-- [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (2 months ago)
+- [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (3 months ago)
