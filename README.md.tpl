@@ -56,7 +56,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C.svg?style=flat-square&logo=dependabot&logoColor=white)](#)
 [![Ionos](https://img.shields.io/badge/Ionos-003D8F.svg?style=flat-square&logo=ionos&logoColor=white)](#)
 [![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat-square&logo=helm&logoColor=white)](#)
-[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNjEgMEgzLjM5QzIuMTg5IDAgMS4yMy45NiAxLjIzIDIuMTZ2MTkuNjgxYzAgMS4xOTguOTU5IDIuMTU5IDIuMTYgMi4xNTloMTcuMjJjMS4yIDAgMi4xNTktLjk2MSAyLjE1OS0yLjE1OVYyLjE2QzIyLjc3Ljk2IDIxLjgxMSAwIDIwLjYxIDB6bS45NiAyMS44NDFjMCAuNTM5LS40MjEuOTYtLjk2Ljk2SDMuMzljLS41NCAwLS45Ni0uNDIxLS45Ni0uOTZWMi4xNmMwLS41NC40Mi0uOTYxLjk2LS45NjFoMTcuMjJjLjUzOSAwIC45Ni40MjEuOTYuOTYxdjE5LjY4MXpNNi42MyAyMC4zOTlMOS4zMyAxOGwtMi43LTIuNHY0Ljc5OXptOS43Mi05LjcxOWMtLjQ3OS0uNDgtMS4zNzktMS4wOC0yLjg3OS0xLjA4LTEuNjIxIDAtMy4zMDEuNDIxLTQuNS44NFYzLjZoLTIuNHYxMC4zOGwxLjY4LS43OHMyLjc2LTEuMjYgNS4xNi0xLjI2YzEuMiAwIDEuNS42NiAxLjUgMS4yNnY3LjJoMi40di03LjJjLjA1OS0uMTc5LjA1OS0xLjUwMS0uOTYxLTIuNTJ6TTEzLjE3IDcuNWgyLjRjMS4wOC0xLjI2IDEuNjItMi41MjEgMS44LTMuOWgtMi4zOTljLS4yNDEgMS4zNzktLjg0MSAyLjY0LTEuODAxIDMuOXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](#)
+[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)](#)
 <!-- end chipwolf/badgesort default -->
 
 #### 📝 Handy Gists
