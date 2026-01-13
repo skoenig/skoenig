@@ -93,5 +93,5 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 - [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering/pull/25) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
 - [0.4.0](https://github.com/skoenig/jsonresume-theme-engineering/pull/15) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)
 - [Migrate to resumed CLI](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)
-- [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (3 months ago)
+- [build: simplify clean target and configure coverage in pyproject.toml](https://github.com/skoenig/website-monitor/pull/68) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (4 months ago)
 - [feat: add Kafka container for local testing](https://github.com/skoenig/website-monitor/pull/65) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (4 months ago)
