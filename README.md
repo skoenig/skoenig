@@ -76,7 +76,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (4 days ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 day ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (2 months ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (4 months ago)
@@ -90,7 +90,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
-- [feat: containerize metrics collector and writer](https://github.com/skoenig/website-monitor/pull/115) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (today)
+- [feat: containerize metrics collector and writer](https://github.com/skoenig/website-monitor/pull/115) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 day ago)
 - [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering/pull/25) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)
 - [0.4.0](https://github.com/skoenig/jsonresume-theme-engineering/pull/15) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (4 months ago)
 - [Migrate to resumed CLI](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (4 months ago)
