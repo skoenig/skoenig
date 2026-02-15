@@ -76,8 +76,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 day ago)
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (1 day ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (today)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (today)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (2 months ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (4 months ago)
@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
+- [refactor(tests): Improve test coverage and reliability](https://github.com/skoenig/website-monitor/pull/119) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (today)
 - [ci: add npmjs publish workflow on tag push](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/40) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (2 days ago)
 - [feat: containerize metrics collector and writer](https://github.com/skoenig/website-monitor/pull/115) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 week ago)
 - [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/25) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (3 months ago)
 - [0.4.0](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/15) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (4 months ago)
-- [Migrate to resumed CLI](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/13) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (4 months ago)
