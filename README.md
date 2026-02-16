@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
+- [fix: consolidate and refactor tests](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (today)
 - [fix: downgrade mocha to 11.3.0 to resolve npm warnings](https://github.com/skoenig/jsonresume-theme-engineering/pull/11) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (today)
 - [refactor(tests): Improve test coverage and reliability](https://github.com/skoenig/website-monitor/pull/119) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 day ago)
 - [ci: add npmjs publish workflow on tag push](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/40) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (3 days ago)
 - [feat: containerize metrics collector and writer](https://github.com/skoenig/website-monitor/pull/115) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 week ago)
-- [chore: bump pdf-parse from 1.1.1 to 1.1.4](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/25) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (3 months ago)
