@@ -76,7 +76,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (2 days ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (today)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (5 days ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 months ago)
