@@ -76,8 +76,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (today)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (5 days ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (1 day ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (6 days ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (3 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 months ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (4 months ago)
@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
-- [fix: consolidate and refactor tests](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (4 days ago)
-- [fix: downgrade mocha to 11.3.0 to resolve npm warnings](https://github.com/skoenig/jsonresume-theme-engineering/pull/11) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (4 days ago)
-- [refactor(tests): Improve test coverage and reliability](https://github.com/skoenig/website-monitor/pull/119) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (5 days ago)
+- [fix: consolidate and refactor tests](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (5 days ago)
+- [fix: downgrade mocha to 11.3.0 to resolve npm warnings](https://github.com/skoenig/jsonresume-theme-engineering/pull/11) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (5 days ago)
+- [refactor(tests): Improve test coverage and reliability](https://github.com/skoenig/website-monitor/pull/119) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (6 days ago)
 - [ci: add npmjs publish workflow on tag push](https://github.com/skoenig/jsonresume-theme-engineering-fork/pull/40) on [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) (1 week ago)
 - [feat: containerize metrics collector and writer](https://github.com/skoenig/website-monitor/pull/115) on [skoenig/website-monitor](https://github.com/skoenig/website-monitor) (1 week ago)
