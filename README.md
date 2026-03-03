@@ -68,15 +68,15 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### ⭐ Recent Stars
 
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (6 days ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (1 week ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (5 months ago)
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (9 months ago)
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (10 months ago)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide (1 year ago)
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (2 days ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (3 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (1 week ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (2 weeks ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 month ago)
@@ -84,14 +84,14 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260225-2399-e9362e8d](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260225-2399-e9362e8d), 4 days ago) - health checking MySQL replicas over HTTP
-- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.35.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.35.0), 5 days ago) - Framework for implementing custom metrics support for Kubernetes
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260225-2399-e9362e8d](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260225-2399-e9362e8d), 5 days ago) - health checking MySQL replicas over HTTP
+- [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.35.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.35.0), 6 days ago) - Framework for implementing custom metrics support for Kubernetes
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 3 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 
 #### 🔀 My recent Pull Requests
 
-- [README docker compose instructions &#43; transcription path mounting](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/17) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (1 day ago)
-- [feat: display multiple positions at one company](https://github.com/skoenig/jsonresume-theme-engineering/pull/22) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 days ago)
-- [CI: Auto publish patch versions for bot-merged PRs](https://github.com/skoenig/jsonresume-theme-engineering/pull/18) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (5 days ago)
+- [README docker compose instructions &#43; transcription path mounting](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/17) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 days ago)
+- [feat: display multiple positions at one company](https://github.com/skoenig/jsonresume-theme-engineering/pull/22) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 days ago)
+- [CI: Auto publish patch versions for bot-merged PRs](https://github.com/skoenig/jsonresume-theme-engineering/pull/18) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (6 days ago)
 - [fix: consolidate and refactor tests](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 weeks ago)
 - [fix: downgrade mocha to 11.3.0 to resolve npm warnings](https://github.com/skoenig/jsonresume-theme-engineering/pull/11) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 weeks ago)
