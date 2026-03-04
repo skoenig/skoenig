@@ -38,7 +38,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=conventionalcommits&logoColor=white)](#)
 [![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=flat-square&logo=pulumi&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)](#)
-[![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)](#)
+[![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMnYxMC41NmgxMkwxOCAxMmg2VjEuNDRIMTJMNiAxMloiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](#)
 [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=flat-square&logo=travisci&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)](#)
