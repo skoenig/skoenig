@@ -68,7 +68,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### ⭐ Recent Stars
 
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 weeks ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (2 weeks ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (5 months ago)
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (10 months ago)
@@ -76,7 +76,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (2 days ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (3 days ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (2 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (3 weeks ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 month ago)
