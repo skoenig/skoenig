@@ -68,7 +68,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### ⭐ Recent Stars
 
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 weeks ago)
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (3 weeks ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (3 weeks ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (5 months ago)
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (10 months ago)
@@ -78,13 +78,13 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 - [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (1 week ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at home everywhere (3 weeks ago)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (4 weeks ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 month ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (1 month ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260313-2415-e9362e8d](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260313-2415-e9362e8d), 2 days ago) - health checking MySQL replicas over HTTP
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260313-2415-e9362e8d](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260313-2415-e9362e8d), 3 days ago) - health checking MySQL replicas over HTTP
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.35.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.35.0), 2 weeks ago) - Framework for implementing custom metrics support for Kubernetes
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 4 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 
