@@ -48,7 +48,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](#)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC.svg?style=flat-square&logo=atlassian&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAABQUlEQVQokXXRO2vUQRjF4ee%2FhhSihWJhTKeFXSQS0GVBEAQVP4BfQVsr8Qt4AW3T23gBsRCLIAQ1bm0SGxubqJWXQogEdHNs3oXJsh44MHPmd16YGaYoyUKSh%2BWFacxkYTHJ0yS72atXSfrTCktJVifg1%2BVWq0mW2uJmklGS3wW8T3K9vFHZdjGb0CU5hO%2FYxi3s4hsO19wfOFrr29iPIz300cNBnMdznMbx8iKe4QIOFNvvYdBc9zGGWMf98ges4VHDDWaa4ghfcLfAcf4G97CFv5jBoEvyqzZ38BGncAmXEayU13ESN%2FGnS7KMazX9J67gBC5WtoJPeNk82LIks0mGzV99TjKf5Fz5WJKt5nyYZHb8j3NJvtbBiyRvG%2FBdZSlmTqskZ5Ps5P%2FaSXJmzHcT5au4gX32aoQHXdc9GQf%2FABpSPgVn2qi7AAAAAElFTkSuQmCC)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat-square&logo=terraform&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](#)
