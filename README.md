@@ -76,8 +76,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp (2 days ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (5 days ago)
+- [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp (3 days ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (6 days ago)
 - [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (3 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 month ago)
 - [skoenig/vimwiki-todo](https://github.com/skoenig/vimwiki-todo) - A Markdown-based variant of todo.txt plus some extra features (2 months ago)
