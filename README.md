@@ -71,20 +71,20 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 months ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight Personal AI Agent&#34; (2 months ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (7 months ago)
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (11 months ago)
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 year ago)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide (1 year ago)
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (3 days ago)
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (6 days ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (4 days ago)
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 week ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (2 weeks ago)
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp (1 month ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (2 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260413-2447-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260413-2447-38b604a3), 5 days ago) - health checking MySQL replicas over HTTP
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260413-2447-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260413-2447-38b604a3), 6 days ago) - health checking MySQL replicas over HTTP
 - [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) ([v1.35.0](https://github.com/kubernetes-sigs/custom-metrics-apiserver/releases/tag/v1.35.0), 2 months ago) - Framework for implementing custom metrics support for Kubernetes
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 2 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 5 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
