@@ -76,7 +76,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (2 weeks ago)
+- [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (3 weeks ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (3 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (1 month ago)
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp (1 month ago)
