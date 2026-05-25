@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
+- [[collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (today)
 - [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (1 day ago)
 - [README docker compose instructions &#43; transcription path mounting](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/17) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 months ago)
 - [feat: display multiple positions at one company](https://github.com/skoenig/jsonresume-theme-engineering/pull/22) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
 - [CI: Auto publish patch versions for bot-merged PRs](https://github.com/skoenig/jsonresume-theme-engineering/pull/18) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
-- [fix: consolidate and refactor tests](https://github.com/skoenig/jsonresume-theme-engineering/pull/13) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)
