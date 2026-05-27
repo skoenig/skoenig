@@ -90,8 +90,8 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🔀 My recent Pull Requests
 
-- [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 day ago)
-- [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 days ago)
+- [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (2 days ago)
+- [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (3 days ago)
 - [README docker compose instructions &#43; transcription path mounting](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/17) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 months ago)
 - [feat: display multiple positions at one company](https://github.com/skoenig/jsonresume-theme-engineering/pull/22) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (2 months ago)
 - [CI: Auto publish patch versions for bot-merged PRs](https://github.com/skoenig/jsonresume-theme-engineering/pull/18) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)
