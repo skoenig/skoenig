@@ -35,7 +35,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=apache&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](#)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=conventionalcommits&logoColor=white)](#)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMEM1LjM4MiAwIDAgNS4zODIgMCAxMnM1LjM4MiAxMiAxMiAxMiAxMi01LjM4MiAxMi0xMlMxOC42MTggMCAxMiAwem0wIDEuNmM1Ljc1MyAwIDEwLjQgNC42NDcgMTAuNCAxMC40UzE3Ljc1MyAyMi40IDEyIDIyLjQgMS42IDE3Ljc1MyAxLjYgMTIgNi4yNDcgMS42IDEyIDEuNnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](#)
 [![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=flat-square&logo=pulumi&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)](#)
 [![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)](#)
@@ -85,15 +85,15 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.9.2), 3 days ago) - OpenTelemetry Helm Charts
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260601-2496-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260601-2496-38b604a3), 5 days ago) - health checking MySQL replicas over HTTP
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.9.2), 4 days ago) - OpenTelemetry Helm Charts
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260601-2496-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260601-2496-38b604a3), 6 days ago) - health checking MySQL replicas over HTTP
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 3 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 - [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 6 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 
 #### 🔀 My recent Pull Requests
 
-- [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (6 days ago)
-- [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 week ago)
+- [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 week ago)
+- [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (2 weeks ago)
 - [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 weeks ago)
 - [README docker compose instructions &#43; transcription path mounting](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/17) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (3 months ago)
 - [feat: display multiple positions at one company](https://github.com/skoenig/jsonresume-theme-engineering/pull/22) on [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) (3 months ago)

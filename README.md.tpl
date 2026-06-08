@@ -35,7 +35,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=apache&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](#)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=conventionalcommits&logoColor=white)](#)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMEM1LjM4MiAwIDAgNS4zODIgMCAxMnM1LjM4MiAxMiAxMiAxMiAxMi01LjM4MiAxMi0xMlMxOC42MTggMCAxMiAwem0wIDEuNmM1Ljc1MyAwIDEwLjQgNC42NDcgMTAuNCAxMC40UzE3Ljc1MyAyMi40IDEyIDIyLjQgMS42IDE3Ljc1MyAxLjYgMTIgNi4yNDcgMS42IDEyIDEuNnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](#)
 [![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=flat-square&logo=pulumi&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)](#)
 [![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)](#)
