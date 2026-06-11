@@ -47,7 +47,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=digitalocean&logoColor=white)](#)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](#)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC.svg?style=flat-square&logo=atlassian&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMS4xMjUgMGMtLjYyMyAwLTEuMTI1LjUwMi0xLjEyNSAxLjEyNXYyMS43NWMwIC42MjMuNTAyIDEuMTI1IDEuMTI1IDEuMTI1aDIxLjc1Yy42MjMgMCAxLjEyNS0uNTAyIDEuMTI1LTEuMTI1di0yMS43NWMwLS42MjMtLjUwMi0xLjEyNS0xLjEyNS0xLjEyNXptMTcuMzYzIDkuNzVjLjYxMiAwIDEuMTU0LjAzNyAxLjYyNy4xMTFhNi4zOCA2LjM4IDAgMDExLjMwNi4zNHYyLjQ1OGEzLjk1IDMuOTUgMCAwMC0uNjQzLS4zNjEgNS4wOTMgNS4wOTMgMCAwMC0uNzE3LS4yNiA1LjQ1MyA1LjQ1MyAwIDAwLTEuNDI2LS4yYy0uMyAwLS41NzMuMDI4LS44MTkuMDg2YTIuMSAyLjEgMCAwMC0uNjIzLjI0MmMtLjE3LjEwNC0uMy4yMjktLjM5My4zNzRhLjg4OC44ODggMCAwMC0uMTQuNDljMCAuMTk2LjA1My4zNzMuMTU2LjUyOS4xMDQuMTU2LjI1Mi4zMDQuNDQzLjQ0NHMuNDIzLjI3Ni42OTYuNDFjLjI3My4xMzUuNTgyLjI3NC45MjYuNDE2LjQ3LjE5Ny44OTIuNDA3IDEuMjY2LjYyOC4zNzQuMjIyLjY5NS40NzMuOTYzLjc1My4yNjguMjc5LjQ3Mi41OTguNjE0Ljk1N3MuMjE0Ljc3Ni4yMTQgMS4yNTNjMCAuNjU3LS4xMjUgMS4yMS0uMzczIDEuNjU2YTMuMDMzIDMuMDMzIDAgMDEtMS4wMTIgMS4wODUgNC4zOCA0LjM4IDAgMDEtMS40ODcuNTk2Yy0uNTY2LjEyLTEuMTYzLjE4LTEuNzkuMThhOS45MTYgOS45MTYgMCAwMS0xLjg0LS4xNjQgNS41NDQgNS41NDQgMCAwMS0xLjUxMi0uNDkzdi0yLjYzYTUuMDMzIDUuMDMzIDAgMDAzLjIzNyAxLjJjLjMzMyAwIC42MjQtLjAzLjg3Mi0uMDkuMjQ5LS4wNi40NTYtLjE0NC42MjMtLjI1LjE2Ni0uMTA4LjI5LS4yMzQuMzczLS4zOGExLjAyMyAxLjAyMyAwIDAwLS4wNzQtMS4wODkgMi4xMiAyLjEyIDAgMDAtLjUzNy0uNSA1LjU5NyA1LjU5NyAwIDAwLS44MDctLjQ0NCAyNy43MiAyNy43MiAwIDAwLTEuMDA3LS40MzZjLS45MTgtLjM4My0xLjYwMi0uODUyLTIuMDUzLTEuNDA1LS40NS0uNTUzLS42NzYtMS4yMjItLjY3Ni0yLjAwNSAwLS42MTQuMTIzLTEuMTQxLjM2OS0xLjU4MnMuNTgtLjgwNCAxLjAwNC0xLjA4OWE0LjQ5NCA0LjQ5NCAwIDAxMS40Ny0uNjI5IDcuNTM2IDcuNTM2IDAgMDExLjc3LS4yMDF6bS0xNS4xMTMuMTg4aDkuNTYzdjIuMTY2aC0zLjQzMnY5LjY0NmgtMi43MTd2LTkuNjQ2aC0zLjQxNHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat-square&logo=terraform&logoColor=white)](#)
@@ -76,7 +76,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 🚧 Check out what I'm currently working on
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (1 week ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (2 weeks ago)
 - [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (1 month ago)
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) - health checking MySQL replicas over HTTP (1 month ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (1 month ago)
@@ -85,10 +85,10 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.9.2), 6 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-ebpf-instrumentation-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-ebpf-instrumentation-0.9.2), 1 week ago) - OpenTelemetry Helm Charts
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260601-2496-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260601-2496-38b604a3), 1 week ago) - health checking MySQL replicas over HTTP
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 3 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
-- [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 6 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
+- [ChipWolf/BadgeSort](https://github.com/ChipWolf/BadgeSort) ([3.3.1](https://github.com/ChipWolf/BadgeSort/releases/tag/3.3.1), 7 months ago) - Automate the rendering of your shields.io logo badges and sort them in a visually pleasant way for your profile using Hilbert color sorting
 
 #### 🔀 My recent Pull Requests
 
