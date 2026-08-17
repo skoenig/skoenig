@@ -69,7 +69,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 #### ⭐ Recent Stars
 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (3 weeks ago)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (2 months ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (3 months ago)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (5 months ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps (5 months ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (10 months ago)
@@ -85,13 +85,13 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.170.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.170.0), 2 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.170.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.170.0), 3 days ago) - OpenTelemetry Helm Charts
 - [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20260806-2562-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20260806-2562-38b604a3), 1 week ago) - health checking MySQL replicas over HTTP
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 6 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 
 #### 🔀 My recent Pull Requests
 
-- [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2629) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (4 days ago)
+- [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2629) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (5 days ago)
 - [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (2 months ago)
 - [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (2 months ago)
 - [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (2 months ago)
