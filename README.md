@@ -32,7 +32,7 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white)](#)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=flat-square&logo=ansible&logoColor=white)](#)
 [![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D.svg?style=flat-square&logo=hetzner&logoColor=white)](#)
-[![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=apache&logoColor=white)](#)
+[![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAAtUlEQVQokZ2OP2oCURgH55MU%2FikitqKHMJfwBDY5hFfwOqkstLOwEvQENhJC0qRICIIWInFstpBll336uu8xw%2Fyg4qljdV3F5aWRelCPaidV6qqfmTS%2FpzZTv9STOkiVhup3VlvcU9uo7%2Bq%2FOkqVXtQf9U%2F9UGtFXNHnK%2FALtIG3iLik1EJdqbtsbquMzRf7QB1oAJOIOJaJT7m7DWyBKbCsnHgztac%2Bp7D5qc2I2D8inlMkgCuXj4L5EJOIXgAAAABJRU5ErkJggg%3D%3D)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](#)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=conventionalcommits&logoColor=white)](#)
