@@ -23,12 +23,15 @@ jobs:
             ansible
             apache
             apachekafka
+            argo
             atlassian
+            backstage
             cloudflare
             conventionalcommits
             dependabot
             digitalocean
             docker
+            envoyproxy
             git
             githubactions
             gitlab
@@ -47,8 +50,8 @@ jobs:
             kubernetes
             linux
             mariadb
-            minio
             mongodb
+            mysql
             nginx
             nodedotjs
             npm
@@ -66,7 +69,6 @@ jobs:
             saltproject
             terraform
             travisci
-            typescript
             vagrant
 
       - uses: muesli/readme-scribe@master
