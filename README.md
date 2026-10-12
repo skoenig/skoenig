@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&descAlignY=55&color=0:00ab91,100:005182&fontColor=ffffff&text=Hi,%20my%20name%20is%20S%C3%B6ren&desc=[%CB%88z%C3%B8%CB%90%CA%81%C9%99n]&animation=fadeIn)
 
-Hey! I'm Sören – a **Site Reliability & Cloud Platform Engineer** with 15 years of experience building and optimizing **scalable, resilient systems** that grow with businesses. My focus? **Observability, automation, and cloud-native architectures**.
+Hey! I'm Sören, a **Cloud Platform Engineer** with 15 years of experience. These days I mostly design cloud platforms for teams with strict rules: an air-gapped government cloud, sovereign cloud setups, and a Google Cloud platform for a life-sciences product that pharma customers run in their own accounts.
 
-I thrive on **cross-functional collaboration** and **DevOps best practices**, solving real-world problems with **pragmatic, business-aligned solutions**. Whether it's designing fail-safe pipelines, troubleshooting scalability bottlenecks, or improving system reliability, I love making complex systems work seamlessly.
+My work sits between **platform architecture**, **Kubernetes**, **Terraform**, and **observability**. The part I enjoy most is turning a pile of constraints into a clear design, with the decisions written down so nobody has to guess later.
 
-- 🌱 Passionate about **:page_with_curl: Open Source**, **:cloud: Cloud Native**, **:infinity: DevOps**, and **:robot: Automation**
-- 💬 Let’s chat about **service reliability**, **scalability**, or **observability**
+- 🌱 Interested in **:page_with_curl: Open Source**, **:cloud: Cloud Native**, **:infinity: Platform Engineering**, and **:robot: Automation**
+- 💬 Happy to talk about **platform architecture**, **observability**, or **sovereign cloud**
 - ⚡ Fun fact: **Peanut butter** is my Kryptonite
-- 🌄 Beyond the terminal, I’m an **adventurous hiker** and **visual arts explorer**
+- 🌄 Beyond the terminal, I'm an **adventurous hiker** and **visual arts explorer**
 
 
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)](#)
@@ -35,8 +35,10 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat-square&logo=apache&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](#)
+[![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)](#)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=conventionalcommits&logoColor=white)](#)
 [![Pulumi](https://img.shields.io/badge/Pulumi-8A3391.svg?style=flat-square&logo=pulumi&logoColor=white)](#)
+[![Backstage](https://img.shields.io/badge/Backstage-9BF0E1.svg?style=flat-square&logo=backstage&logoColor=black)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)](#)
 [![Salt Project](https://img.shields.io/badge/Salt%20Project-57BCAD.svg?style=flat-square&logo=saltproject&logoColor=white)](#)
 [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=flat-square&logo=travisci&logoColor=white)](#)
@@ -47,9 +49,9 @@ I thrive on **cross-functional collaboration** and **DevOps best practices**, so
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=digitalocean&logoColor=white)](#)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](#)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC.svg?style=flat-square&logo=atlassian&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat-square&logo=terraform&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](#)
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8.svg?style=flat-square&logo=opensearch&logoColor=white)](#)
