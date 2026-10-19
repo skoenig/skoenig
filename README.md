@@ -87,8 +87,8 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### 📦 Latest releases I've contributed to
 
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261018-2635-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261018-2635-38b604a3), today) - health checking MySQL replicas over HTTP
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.25.0), 3 days ago) - OpenTelemetry Helm Charts
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261015-2632-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261015-2632-38b604a3), 3 days ago) - health checking MySQL replicas over HTTP
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 8 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 
 #### 🔀 My recent Pull Requests
