@@ -78,8 +78,8 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### 🚧 Check out what I'm currently working on
 
-- [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (3 weeks ago)
-- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (3 weeks ago)
+- [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (4 weeks ago)
+- [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (4 weeks ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (1 month ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (3 months ago)
 - [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (4 months ago)
@@ -87,13 +87,13 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 3 days ago) - OpenTelemetry Helm Charts
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261021-2638-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261021-2638-38b604a3), 3 days ago) - health checking MySQL replicas over HTTP
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.126.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.126.2), 4 days ago) - OpenTelemetry Helm Charts
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261021-2638-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261021-2638-38b604a3), 4 days ago) - health checking MySQL replicas over HTTP
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 8 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 
 #### 🔀 My recent Pull Requests
 
-- [[opentelemetry-collector] drop deprecated &#39;k8sattributes&#39; name support](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2429) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (4 weeks ago)
+- [[opentelemetry-collector] drop deprecated &#39;k8sattributes&#39; name support](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2429) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 month ago)
 - [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2629) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 months ago)
 - [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (4 months ago)
 - [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (5 months ago)
