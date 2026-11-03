@@ -93,8 +93,8 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### 🔀 My recent Pull Requests
 
+- [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2699) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (today)
 - [[opentelemetry-collector] drop deprecated &#39;k8sattributes&#39; name support](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2429) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 month ago)
 - [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2629) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 months ago)
 - [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (5 months ago)
 - [[opentelemetry-collector] warn on deprecated k8sattributes processor name](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2225) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (5 months ago)
-- [fix: surface cached model file corruption](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/pull/20) on [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) (5 months ago)
