@@ -70,15 +70,15 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### ⭐ Recent Stars
 
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (3 months ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (4 months ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (6 months ago)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (8 months ago)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent. (8 months ago)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent. (9 months ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (1 year ago)
 
 #### 🚧 Check out what I'm currently working on
 
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (1 week ago)
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 month ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
 - [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (1 month ago)
@@ -87,9 +87,9 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.3), today) - OpenTelemetry Helm Charts
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261117-2665-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261117-2665-38b604a3), 2 days ago) - health checking MySQL replicas over HTTP
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 2 weeks ago) - Configures opinionated GKE clusters
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-kube-stack-0.27.3](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-kube-stack-0.27.3), 1 day ago) - OpenTelemetry Helm Charts
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261117-2665-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261117-2665-38b604a3), 3 days ago) - health checking MySQL replicas over HTTP
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 3 weeks ago) - Configures opinionated GKE clusters
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 9 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 
 #### 🔀 My recent Pull Requests
