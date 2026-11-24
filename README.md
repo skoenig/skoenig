@@ -81,20 +81,20 @@ My work sits between **platform architecture**, **Kubernetes**, **Terraform**, a
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters (2 weeks ago)
 - [skoenig/website-monitor](https://github.com/skoenig/website-monitor) - Conceptual website monitor using Kafka and PostgreSQL for demonstration purposes. (1 month ago)
 - [skoenig/devops-metrics](https://github.com/skoenig/devops-metrics) - log DevOps metrics from GCP Cloud Build pipelines (1 month ago)
-- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (1 month ago)
+- [skoenig/dotfiles](https://github.com/skoenig/dotfiles) - awesome dotfiles 😍 for feeling at ~ wherever you go (2 months ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts (4 months ago)
 - [skoenig/jsonresume-theme-engineering](https://github.com/skoenig/jsonresume-theme-engineering) - JSONResume theme for senior and staff level engineers. (5 months ago)
 
 #### 📦 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.42.8](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.42.8), today) - OpenTelemetry Helm Charts
-- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261117-2665-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261117-2665-38b604a3), 6 days ago) - health checking MySQL replicas over HTTP
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.183.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.183.1), today) - OpenTelemetry Helm Charts
+- [skoenig/mysql-replica-http-healthcheck](https://github.com/skoenig/mysql-replica-http-healthcheck) ([debian-12-8.4-20261117-2665-38b604a3](https://github.com/skoenig/mysql-replica-http-healthcheck/releases/tag/debian-12-8.4-20261117-2665-38b604a3), 1 week ago) - health checking MySQL replicas over HTTP
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) ([v47.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/releases/tag/v47.0.0), 3 weeks ago) - Configures opinionated GKE clusters
 - [FlyingFathead/whisper-transcriber-telegram-bot](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot) ([v0.1717.2](https://github.com/FlyingFathead/whisper-transcriber-telegram-bot/releases/tag/v0.1717.2), 9 months ago) - Python-based Telegram transcriber bot utilizing local Whisper models &amp; yt-dlp
 
 #### 🔀 My recent Pull Requests
 
-- [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2699) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (2 weeks ago)
+- [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2699) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 weeks ago)
 - [[opentelemetry-collector] drop deprecated &#39;k8sattributes&#39; name support](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2429) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (1 month ago)
 - [docs: clarify cpu_manager_policy default in node_pools](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/pull/2629) on [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (3 months ago)
 - [[opentelemetry-collector] auto-rewrite kubernetesAttributes preset](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2242) on [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) (5 months ago)
